@@ -1,0 +1,14 @@
+-------------biological_process------------
+regulates	3233
+negatively_regulates	2802
+positively_regulates	2786
+is_a	57324
+part_of	5385
+
+------------cellular_component-------------
+is_a	6062
+part_of	1461
+
+-------------molecular_function------------
+is_a	13647
+part_of	11
